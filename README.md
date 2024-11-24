@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Raj Bhattarai</h1>
 <h3 align="center">A passionate FullStack developer from Nepal</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350">
 
 
 
@@ -25,7 +25,7 @@
 
 
   
-<a href="https://www.youtube.com/c/code with bishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with bishal" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/code with bishal](https://www.youtube.com/@codewithbishal895)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with bishal" height="30" width="40" /></a>
 </p>
 
 
