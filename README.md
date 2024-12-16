@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bishal Raj Bhattarai</h1>
-<h3 align="center">A passionate JavaScript developer from Nepal</h3>
+<h3 align="center">A passionate TypeScript developer from Nepal</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350">
 
