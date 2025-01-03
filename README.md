@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Bishal Raj Bhattarai</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bishal Raj+Bhattarai!;" />
+</h1>
 <h3 align="center">A passionate TypeScript developer from Nepal</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350">
