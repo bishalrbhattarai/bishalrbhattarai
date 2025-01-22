@@ -24,16 +24,24 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div>
+<table>
+  <tr>
 
-  
+    <td>
 <a href="https://www.youtube.com/@codewithbishal895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with bishal" height="30" width="40" /></a>
+</td>
 
+<td>
 <a href="https://www.instagram.com/bishalrajbhattarai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code with bishal" height="30" width="40" /></a>
+</td>
 
+<td>
 <a href="https://www.facebook.com/bishalrbhattarai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+</td>
 
-</div>
+</tr>
+
+</table>
 
 
 ![MasterHead](https://triveniglobalsoft.com/wp-content/uploads/2024/04/Node-js-SIngle-Threaded-1.png)
