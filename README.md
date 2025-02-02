@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalrbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="bishalrbhattarai" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **Cloud Computing**
 
 - 📫 How to reach me **bishalrajbhattarai01@gmail.com**
 
